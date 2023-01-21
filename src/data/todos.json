@@ -1,0 +1,6 @@
+[
+    { "id": "id-1", "text": "React Basics", "completed": false },
+    { "id": "id-2", "text": "English Advanced", "completed": false },
+    { "id": "id-3", "text": "Redux", "completed": false },
+    { "id": "id-4", "text": "Stay alive", "completed": true }
+]
